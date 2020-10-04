@@ -2,7 +2,7 @@
 
 I'm a computer scientist and a MSc student. I'm currently working on how to improve runtime of Markov Decision Process (MDP) solvers using Tensor Decomposition. ⚡
 
-In my repositories you can find assignments of my graduation degree (2015-2018) using several techniques and applications. 😄
+In my repositories you can find assignments of my current work as MSc student (2020-until now) and my graduation degree (2015-2018) using several techniques and applications. 😄
 
 <!--
 **danielakuinchtner/danielakuinchtner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
